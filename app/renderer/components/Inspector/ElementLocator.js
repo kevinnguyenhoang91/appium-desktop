@@ -43,6 +43,8 @@ class ElementLocator extends Component {
       ['-android datamatcher', 'DataMatcher Selector (Android Espresso)'],
       ['-ios predicate string', 'Predicate String (iOS)'],
       ['-ios class chain', 'Class Chain (iOS)'],
+      ['-image', 'Image (Base64)'],
+      ['-custom', 'Custom Find Modules'],
     ];
 
     return <div>

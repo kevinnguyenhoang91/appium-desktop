@@ -346,7 +346,7 @@ export function createNewConfigWindow (win) {
     title: 'Config',
     parent: win,
     width: 1080 / 2,
-    height: 1080 / 4,
+    height: 1080 / 2,
   });
 }
 

@@ -4,7 +4,7 @@ import { Input, Row, Col, Button } from 'antd';
 import styles from './Config.css';
 
 const ENV_VARIABLE_NAMES = [
-  'ANDROID_HOME', 'JAVA_HOME'
+  'ANDROID_HOME', 'JAVA_HOME', 'DEBUG_IMAGES', 'DEBUG_IMAGE_DIR'
 ];
 
 const {app, dialog, getCurrentWindow} = remote;
